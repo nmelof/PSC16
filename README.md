@@ -6,6 +6,7 @@
 int main()
 {
    std::cout << "Fuck off";
+   std::cout << "Isto está a ser muito util";
    return 0;
 }
 ```
