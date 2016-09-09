@@ -7,7 +7,7 @@ int main()
 {
    std::cout << "Fuck off";
    std::cout << "Isto está a ser muito util";
-   std::cout << "Não está nada!!!";
+   std::cout << "Pois está!!!";
    return 0;
 }
 ```
